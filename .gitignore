@@ -4,4 +4,4 @@ Bin/*
 Library/*
 Temp/*
 *.csproj
-#.sln
+*.sln
